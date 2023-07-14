@@ -1,0 +1,21 @@
+.background {
+  background-color: #fef2f4;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  height: 400px;
+  width: 600px;
+  background-color: #ffffff;
+  margin-top: 80px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  color: #ea580c;
+}
